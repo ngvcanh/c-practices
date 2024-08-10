@@ -19,7 +19,6 @@
 
 # IDE/Editor specific files
 *.sln
-*.vcxproj
 .vscode/
 .idea/
 .vs/
@@ -27,9 +26,9 @@
 **/ARM64
 **/x64
 **/*.sln
-**/*.vcxproj
 **/*.vcxproj.filters
 **/*.vcxproj.user
+**/Debug
 
 # Temporary files
 *.tmp
