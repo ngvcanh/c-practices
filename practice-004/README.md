@@ -1,4 +1,4 @@
-# Practice 004
+# Practice 004: S(n) = 1/2 + 1/4 + ... + 1/2n
 
 Calculate
 
