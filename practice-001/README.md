@@ -6,4 +6,4 @@ Calculate:
 S(n) = 1 + 2 + 3 + ... + n
 ```
 
-Only using while loop.
+Only using while loop!
