@@ -1,4 +1,4 @@
-# Practice 001
+# Practice 001: S(n) = 1 + 2 + 3 + ... + n
 
 Calculate:
 
