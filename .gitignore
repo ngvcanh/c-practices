@@ -1,0 +1,41 @@
+# Build folders
+/build/
+/bin/
+/obj/
+/ARM64/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.dll
+*.so
+
+# Logs
+*.log
+
+# IDE/Editor specific files
+*.sln
+*.vcxproj
+.vscode/
+.idea/
+.vs/
+**/.vs
+**/ARM64
+**/x64
+**/*.sln
+**/*.vcxproj
+**/*.vcxproj.filters
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# Backup files
+*.bak
