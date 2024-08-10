@@ -6,4 +6,4 @@ Calculate
 S(n) = 1^2 + 2^2 + ... + n^2
 ```
 
-Only using while loop.
+Only using while loop!
